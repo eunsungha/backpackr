@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="buyButton">구매하기</string>
+    <string name="closeButton">X</string>
+    <string name="addNewLine">\n\n\n\n\n\n</string>
+</resources>
