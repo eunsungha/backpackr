@@ -1,5 +1,3 @@
-# backpackr
-
 백패커(아이디어스) 블라인드 채용(앱개발 챌린지)
 -------------
 -  https://programmers.co.kr/competitions/125/2019-idus-blind-recruitment
